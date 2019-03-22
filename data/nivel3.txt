@@ -1,0 +1,19 @@
+#						
+1						
+# Radio	PosX	PosY	WaitTime	Direction	NumberOfBounces	Stopped
+50	30	200	10	Right	0	false
+50	500	20	5	Down	0	false
+50	1900	200	30	Left	0	false
+30	100	550	10	Up	0	false
+20	30	1240	10	Right	0	false
+40	500	20	5	Down	0	false
+50	1900	200	30	Left	0	false
+50	100	500	10	Up	0	false
+50	100	500	10	Up	0	false
+50	100	1000	10	Up	0	false
+50	340	300	10	Up	0	false
+50	400	800	10	Up	0	false
+50	500	700	10	Up	0	false
+50	900	300	10	Up	0	false
+50	700	500	10	Up	0	false
+50	300	300	10	Up	0	false
